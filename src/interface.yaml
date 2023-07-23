@@ -1,0 +1,2 @@
+name: cos_agent
+summary: An interface for integration with grafana-agent.
